@@ -1,0 +1,80 @@
+body{
+    margin: 0;
+    height: 100%;
+}
+.conatiner{
+    align-items: center;
+    position: relative;
+    
+}
+.child1:hover{
+    /* border: 1px solid black; */
+    margin: 30px 290px 30px 400px;
+    height: 90vh;
+    box-shadow: 0px 0px 5px 0px;
+    border-radius: 20px;
+}
+.child2{
+    position: absolute;
+    top: 9%;
+    left: 30%;
+    width: 600px;
+    margin: 40px;
+    
+}
+table{
+    margin: 10px;
+    /* border: 1px solid black; */
+    padding: 30px 30px 30px 30px;
+    text-align: none;
+}
+p{
+    position: absolute;
+    left: 35%;
+    margin: 23px;
+    padding: 10px 10px 10px 10x;
+}
+
+h1{
+    padding: 30px 0px 0px 0px;
+    position: absolute;
+    left: 37%;
+    color: rgb(232, 71, 71);
+    
+}
+input {
+    padding: 0px 0px 0px 0px;
+    border: 0;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+input:hover {
+    padding: 0px 0px 0px 0px;
+    border: 0;
+    border-bottom: 2px solid rgb(221, 65, 65);
+}
+.n1{
+    font-size: 10px;
+}
+.n1:hover{
+    padding: 16px 0px 0px 0px;
+    font-size: 12px;
+    color: rgb(221, 65, 65);
+    
+}
+
+button:hover{
+    background-color: #fff;
+    margin: 10px;
+    border: 0;
+    width: 100px;
+    padding: 5px 5px 5px 5px;
+    border-bottom: 2px solid rgb(219, 93, 93);
+}
+button{
+    background-color: #fff;
+    margin: 10px;
+    width: 80px;
+    padding: 5px 5px 5px 0px;
+    border: 0;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
